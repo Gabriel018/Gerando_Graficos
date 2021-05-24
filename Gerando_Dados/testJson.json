@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Duke",
+    "Cidade": "Germany",
+    "Ocupcao": "Caçador"
+
+  },
+ {
+    "Nome": "Gerdel",
+    "Pais": "Italia",
+    "Ocupcao": "Fruteiro"
+
+  },
+   {
+    "Nome": "Joao",
+    "Pais": "Germany",
+    "Ocupcao": "Policial"
+
+  },
+   {
+    "Nome": "Paulo",
+    "Pais": "Florença",
+    "Ocupcao": "Florista"
+
+  }
+]
